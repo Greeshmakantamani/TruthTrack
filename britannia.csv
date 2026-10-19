@@ -1,0 +1,14 @@
+quarter,period_end,revenue_cr,volume_growth_pct,receivables_cr,inventory_cr,source_file,page
+Q1 FY24,2023-06-30,4010.7,,,,Unaudited_Consolidated_Financial_Results_30_06_2024 (prior-year column),1
+Q2 FY24,2023-09-30,4432.88,,,,Unaudited_Consolidated_Financial_Results_30_09_2024 (prior-year column),1
+Q3 FY24,2023-12-31,4256.33,,,,Unaudited_Consolidated_Financial_Results_31_12_2024 (prior-year column),1
+Q4 FY24,2024-03-31,4069.36,,393.33,1181.22,Audited_Consolidated_Financial_Results_31_03_2025,"1 (P&L), 2 (balance sheet)"
+Q1 FY25,2024-06-30,4250.29,,,,Unaudited_Consolidated_Financial_Results_30_06_2024,1
+Q2 FY25,2024-09-30,4667.57,,510.0,1972.39,Unaudited_Consolidated_Financial_Results_30_09_2024,"1 (P&L), 2 (balance sheet)"
+Q3 FY25,2024-12-31,4592.62,,,,Unaudited_Consolidated_Financial_Results_31_12_2024,1
+Q4 FY25,2025-03-31,4432.19,,448.61,1236.51,Audited_Consolidated_Financial_Results_31_03_2025,"1 (P&L), 2 (balance sheet)"
+Q1 FY26,2025-06-30,4622.22,,,,Unaudited_Consolidated_Financial_Results_30_06_2025,1
+Q2 FY26,2025-09-30,4840.63,,497.27,2199.63,Unaudited_Consolidated_Financial_Results_30_09_2025 (scanned; read from image),"1 (P&L), 2 (balance sheet)"
+Q3 FY26,2025-12-31,4969.82,,,,Unaudited_Consolidated_Financial_Results_31_12_2025 (file Consolidated_Results),1
+Q4 FY26,2026-03-31,4718.92,,469.21,1345.93,Audited_Consolidated_Financial_Results_31_03_2026,"1 (P&L), 2 (balance sheet)"
+Q1 FY27,2026-06-30,4999.97,,,,Unaudited_Consolidated_Financial_Results_30_06_2026,1
